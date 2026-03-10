@@ -1,151 +1,66 @@
-### Marcelo Lima 👨🏽‍💻
+# 👋 Olá, eu sou Marcelo Lima
 
+💻 Desenvolvedor Full Stack em formação  
+🎓 Cursando Análise e Desenvolvimento de Sistemas  
+🚀 Estudando Desenvolvimento Web e Salesforce  
 
-[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marckk_araujo?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-)](https://www.facebook.com/profile.php?id=100083273835302&mibextid=ZbWKwL)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/marcelo-ara%C3%BAjo-8a8332178)
+Sou apaixonado por tecnologia e desenvolvimento de software.  
+Atualmente estou focado em criar projetos práticos para aprimorar minhas habilidades em desenvolvimento web e construção de aplicações modernas.
 
+---
 
-<!---
-MarceloAL3/MarceloAL3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Tecnologias e Ferramentas
 
-### 🤖 Linguagens e Tecnologias
+💻 Front-end
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Bootstrap
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+⚙️ Back-end
+- Node.js
+- APIs REST
 
-<br/>
-<br/>
+🛠️ Ferramentas
+- Git
+- GitHub
+- VS Code
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marceloAL3&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
-  />
+## 📚 Atualmente estudando
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloAL3&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+- Desenvolvimento Full Stack
+- Salesforce
+- Integração de APIs
+- Boas práticas de programação
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloAL3&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAL3&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Projetos em destaque
+
+📊 Sistema de Gestão de Vendas  
+💰 Controle Financeiro Pessoal  
+🌐 Portfólio Web  
+📱 Dashboard Administrativo  
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn  
+📧 Email profissional  
+
+---
+
+⭐ Sempre aprendendo e evoluindo na área de tecnologia.
