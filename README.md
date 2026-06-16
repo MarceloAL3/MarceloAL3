@@ -8,7 +8,7 @@
   <a href="https://instagram.com/marckk_araujo">
     <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=60a5fa" />
   </a>
-  <a href="https://linkedin.com/in/marcelolima">
+  <a href="https://www.linkedin.com/in/marcelo-lima03">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=60a5fa" />
   </a>
 </div>
@@ -71,4 +71,3 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tr
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:1e3a8a&height=100&section=footer" />
 </div>
-
