@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨🏽‍💻 Sobre Mim
 
 Desenvolvedor Full Stack em formação, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**. Possuo sólida base em desenvolvimento web, com foco na criação de interfaces responsivas, acessíveis e performáticas.
 
