@@ -15,8 +15,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:1e3a8a&height=200&section=header&text=Marcelo%20Lima&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<h3 align="center" style="color:#60a5fa">HTML | CSS | JavaScript | React</h3>
-
 <div align="center">
   <a href="https://instagram.com/marckk_araujo">
     <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=60a5fa" />
