@@ -17,12 +17,14 @@
 
 ## 👨‍💻 Sobre Mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por transformar ideias em interfaces funcionais e intuitivas. Foco em desenvolvimento **Front-End**, com interesse crescente em **UI/UX** e experiências de usuário memoráveis.
+Desenvolvedor Front-End em formação, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**. Possuo sólida base em desenvolvimento web, com foco na criação de interfaces responsivas, acessíveis e performáticas.
 
-- 🎓 Cursando ADS — construindo base sólida em programação e engenharia de software
-- 🚀 Buscando oportunidades para aplicar conhecimento em projetos reais
-- 📚 Sempre aprendendo: atualmente aprofundando em React e boas práticas de CSS
-- 💡 Curioso por natureza — gosto de entender como as coisas funcionam por baixo dos panos
+Busco oportunidades para atuar em projetos desafiadores que me permitam aplicar e expandir meus conhecimentos em tecnologias modernas, contribuindo para soluções que gerem valor real aos usuários.
+
+- 🎓 Graduando em ADS — fundamentos em engenharia de software, estruturas de dados e arquitetura de sistemas
+- 💻 Especializado em React, JavaScript moderno (ES6+) e CSS avançado
+- 📈 Comprometido com clean code, boas práticas e aprendizado contínuo
+- 🤝 Aberto a colaborações em projetos open source e oportunidades de estágio
 
 ---
 
