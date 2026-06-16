@@ -1,75 +1,87 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- MARCELO LIMA - FULL STACK DEVELOPER - CYBERPUNK DARK THEME -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<h1 align="center">Marcelo Araújo 👨‍💻</h1>
+
+<h3 align="center">
+Full Stack Developer • React • Node.js • PostgreSQL • Python
+</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:8338EC,100:3A86FF&height=180&section=header&text=Marcelo%20Lima&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
+Estudante de Análise e Desenvolvimento de Sistemas
 </p>
+
+---
+
+## 🚀 Sobre Mim
+
+💻 Desenvolvedor Full Stack em formação
+
+🎓 Graduando em Análise e Desenvolvimento de Sistemas
+
+🌱 Atualmente aprofundando conhecimentos em:
+- React
+- Node.js
+- PostgreSQL
+- Python
+- Linux
+- APIs REST
+
+🎯 Objetivo: Conquistar uma oportunidade como Desenvolvedor Full Stack Júnior.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF006E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Node.js+%7C+PostgreSQL+%7C+Python+%7C+Linux" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,python,linux,git,github,vscode&perline=6" />
 </p>
 
-<br>
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://instagram.com/marckk_araujo">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium_colored/instagram.svg" width="50" height="50" alt="Instagram" title="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/marcelo-lima03">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium_colored/linkedin.svg" width="50" height="50" alt="LinkedIn" title="LinkedIn" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloAL3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAL3&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br>
+---
 
-## 🔥 Tech Stack
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=4" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,python&theme=dark&perline=3" />
-</p>
-
-### 🐧 Sistema & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,github&theme=dark&perline=4" />
-</p>
-
-<br>
-
-## 📊 Painel de Desempenho
+## 🔥 Consistência
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MarceloAL3&theme=radical&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117&ring=FF006E&fire=FF006E&currStreakLabel=FF006E&sideLabels=FF006E&currStreakNum=FF006E&sideNums=8338EC" height="180" />
+  <img src="https://streak-stats.demolab.com?user=MarceloAL3&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarceloAL3&theme=redical&hide_border=true&area=true&custom_title=🔥%20Contribuições%20Recentes&bg_color=0D1117&color=FF006E&line=8338EC&point=3A86FF" width="100%"/>
-</p>
-
-<br>
+---
 
 ## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarceloAL3&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarceloAL3&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarceloAL3&color=FF006E&style=for-the-badge&label=Visualizações" alt="Profile views" />
+## 🚀 Projetos em Destaque
+
+<a href="LINK_DO_PROJETO_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloAL3&repo=REPOSITORIO1&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="LINK_DO_PROJETO_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloAL3&repo=REPOSITORIO2&theme=tokyonight&hide_border=true"/>
+</a>
+
+---
+
+## 🌎 Conecte-se Comigo
+
+<p align="left">
+<a href="SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:8338EC,100:3A86FF&height=100&section=footer" width="100%"/>
-</p>
-
