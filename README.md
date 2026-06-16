@@ -1,70 +1,72 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- MARCELO LIMA - FULL STACK DEVELOPER - BLUE DARK THEME -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e40af&height=200&section=header&text=Marcelo%20Lima&fontSize=50&fontColor=ffffff&animation=fadeIn" /&gt;
+&lt;/div&gt;
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,50:00D4FF,100:0066FF&height=180&section=header&text=Marcelo%20Lima&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
-</p>
+&lt;h3 align="center"&gt;HTML | CSS | JavaScript | React&lt;/h3&gt;
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Node.js+%7C+PostgreSQL+%7C+Python+%7C+Linux" alt="Typing SVG" />
-</p>
+&lt;div align="center"&gt;
+  &lt;a href="[seu-link-instagram]"&gt;
+    &lt;img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white" /&gt;
+  &lt;/a&gt;
+  &lt;a href="[seu-link-linkedin]"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-<br>
+---
 
-<p align="center">
-  <a href="https://instagram.com/marckk_araujo">
-    <img src="https://img.shields.io/badge/Instagram-00D4FF?style=for-the-badge&color=0A2540&labelColor=00D4FF" height="35" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/marcelo-lima03/">
-    <img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&color=0A2540&labelColor=0066FF" height="35" />
-  </a>
-</p>
+## 👨‍💻 Sobre Mim
 
-<br>
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por transformar ideias em interfaces funcionais e intuitivas. Foco em desenvolvimento **Front-End**, com interesse crescente em **UI/UX** e experiências de usuário memoráveis.
+
+- 🎓 Cursando ADS — construindo base sólida em programação e engenharia de software
+- 🚀 Buscando oportunidades para aplicar conhecimento em projetos reais
+- 📚 Sempre aprendendo: atualmente aprofundando em React e boas práticas de CSS
+- 💡 Curioso por natureza — gosto de entender como as coisas funcionam por baixo dos panos
+
+---
 
 ## 🔥 Tech Stack
 
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=4" />
-</p>
+&lt;p align="left"&gt;
+  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/&gt;
+  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/&gt;
+  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/&gt;
+  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/&gt;
+&lt;/p&gt;
 
 ### ⚙️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,python&theme=dark&perline=3" />
-</p>
+&lt;p align="left"&gt;
+  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/&gt;
+  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/&gt;
+  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/&gt;
+&lt;/p&gt;
 
-### 🐧 Sistema & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,github&theme=dark&perline=4" />
-</p>
-
-<br>
+---
 
 ## 📊 Painel de Desempenho
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MarceloAL3&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0A2540&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=00D4FF&sideNums=0066FF" height="180" />
-</p>
+&lt;div align="center"&gt;
+  &lt;a href="https://github.com/MarceloAL3"&gt;
+    &lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloAL3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"/&gt;
+    &lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAL3&layout=compact&langs_count=7&theme=radical&hide_border=true&locale=pt-br"/&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-<br>
+&lt;div align="center"&gt;
+  &lt;img src="https://streak-stats.demolab.com?user=MarceloAL3&theme=radical&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /&gt;
+&lt;/div&gt;
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarceloAL3&theme=react-dark&hide_border=true&area=true&custom_title=🔥%20Contribuições%20Recentes&bg_color=0A2540&color=00D4FF&line=0066FF&point=00D4FF" width="100%"/>
-</p>
+---
 
-<br>
+## 📂 Projetos em Destaque
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarceloAL3&color=00D4FF&style=for-the-badge&label=Visualizações" alt="Profile views" />
-</p>
+&gt; *Em breve...* 🚧  
+&gt; Estou desenvolvendo projetos pessoais para aplicar o que aprendo na faculdade. Volte em breve para conferir!
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:00D4FF,100:0066FF&height=100&section=footer" width="100%"/>
-</p>
+---
 
-
-
-
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e40af&height=100&section=footer" /&gt;
+&lt;/div&gt;
