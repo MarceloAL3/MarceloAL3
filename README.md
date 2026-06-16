@@ -2,10 +2,6 @@
 <!-- MARCELO LIMA - FULL STACK DEVELOPER - BLUE DARK THEME -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,50:00D4FF,100:0066FF&height=180&section=header&text=Marcelo%20Lima&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
-</p>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:1e3a8a&height=200&section=header&text=Marcelo%20Lima&fontSize=50&fontColor=ffffff&animation=fadeIn" />
