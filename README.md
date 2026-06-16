@@ -14,11 +14,11 @@
 
 <p align="center">
   <a href="https://instagram.com/marckk_araujo">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium_colored/instagram.svg" width="50" height="50" alt="Instagram" title="Instagram" />
+    <img src="https://img.shields.io/badge/📸_Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=FF006E" height="35" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/marcelo-lima03">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium_colored/linkedin.svg" width="50" height="50" alt="LinkedIn" title="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼_LinkedIn-3A86FF?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=3A86FF" height="35" />
   </a>
 </p>
 
@@ -64,3 +64,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:8338EC,100:3A86FF&height=100&section=footer" width="100%"/>
 </p>
+
