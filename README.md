@@ -18,7 +18,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/marcelo-lima03/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white&color=0A2540&labelColor=0066FF" height="35" />
   </a>
 </p>
 
@@ -64,3 +64,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:00D4FF,100:0066FF&height=100&section=footer" width="100%"/>
 </p>
+
