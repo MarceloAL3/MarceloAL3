@@ -43,6 +43,8 @@
 
 <br>
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=MarceloAL3&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📊 Painel de Desempenho
 
 <p align="center">
