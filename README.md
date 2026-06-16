@@ -5,10 +5,10 @@
 <h3 align="center" style="color:#60a5fa">HTML | CSS | JavaScript | React</h3>
 
 <div align="center">
-  <a href="[seu-  -instagram]">
+  <a href="https://instagram.com/marckk_araujo">
     <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=60a5fa" />
   </a>
-  <a href="[seu-link-linkedin]">
+  <a href="https://linkedin.com/in/marcelolima">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=60a5fa" />
   </a>
 </div>
