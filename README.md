@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/Instagram-00D4FF?style=for-the-badge&logo=instagram&logoColor=white&color=0A2540&labelColor=00D4FF" height="35" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/marcelo-lima03/">
-    <img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white&color=0A2540&labelColor=0066FF" height="35" />
+  <a href="https://www.linkedin.com/in/marcelo-<img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&color=0A2540&labelColor=0066FF" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&color=0A2540&labelColor=0066FF" height="35" />
   </a>
 </p>
 
