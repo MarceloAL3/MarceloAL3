@@ -66,7 +66,7 @@ Busco oportunidades para atuar em projetos desafiadores que me permitam aplicar 
 
 <div align="center">
   <a href="https://github.com/MarceloAL3">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloAL3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloAL3&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAL3&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=pt-br"/>
   </a>
 </div>
