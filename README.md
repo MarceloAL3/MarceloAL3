@@ -5,7 +5,7 @@
 <h3 align="center" style="color:#60a5fa">HTML | CSS | JavaScript | React</h3>
 
 <div align="center">
-  <a href="[seu-link-instagram]">
+  <a href="[seu-  -instagram]">
     <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=60a5fa" />
   </a>
   <a href="[seu-link-linkedin]">
