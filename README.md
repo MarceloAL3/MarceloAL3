@@ -1,3 +1,16 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- MARCELO LIMA - FULL STACK DEVELOPER - BLUE DARK THEME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,50:00D4FF,100:0066FF&height=180&section=header&text=Marcelo%20Lima&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Node.js+%7C+PostgreSQL+%7C+Python+%7C+Linux" alt="Typing SVG" />
+</p>
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:1e3a8a&height=200&section=header&text=Marcelo%20Lima&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
