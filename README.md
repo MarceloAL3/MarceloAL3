@@ -17,14 +17,14 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Front-End em formação, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**. Possuo sólida base em desenvolvimento web, com foco na criação de interfaces responsivas, acessíveis e performáticas.
+Desenvolvedor Full Stack em formação, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**. Possuo sólida base em desenvolvimento web, com foco na criação de interfaces responsivas, acessíveis e performáticas.
 
 Busco oportunidades para atuar em projetos desafiadores que me permitam aplicar e expandir meus conhecimentos em tecnologias modernas, contribuindo para soluções que gerem valor real aos usuários.
 
 - 🎓 Graduando em ADS — fundamentos em engenharia de software, estruturas de dados e arquitetura de sistemas
 - 💻 Especializado em React, JavaScript moderno (ES6+) e CSS avançado
 - 📈 Comprometido com clean code, boas práticas e aprendizado contínuo
-- 🤝 Aberto a colaborações em projetos open source e oportunidades de estágio
+- 🤝 Aberto a colaborações em projetos open source e oportunidades
 
 ---
 
