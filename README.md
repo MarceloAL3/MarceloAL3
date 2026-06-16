@@ -60,11 +60,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tr
 
 ---
 
-## 📂 Projetos em Destaque
-
-> *Em breve...* 🚧  
-> Estou desenvolvendo projetos pessoais para aplicar o que aprendo na faculdade. Volte em breve para conferir!
-
 ---
 
 <div align="center">
