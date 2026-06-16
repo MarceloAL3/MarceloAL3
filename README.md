@@ -55,6 +55,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarceloAL3&theme=react-dark&hide_border=true&area=true&custom_title=🔥%20Contribuições%20Recentes&bg_color=0A2540&color=00D4FF&line=0066FF&point=00D4FF" width="100%"/>
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight)
+
 <br>
 
 <p align="center">
